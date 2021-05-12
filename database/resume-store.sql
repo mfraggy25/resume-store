@@ -57,6 +57,9 @@ INSERT INTO `product` (`item_id`, `item_brand`, `item_name`, `item_price`, `item
 (1, 'Resumes', 'Marketing Resume', 10.00, './assets/products/item1.png', '2020-03-28 11:08:57'), -- NOW()
 (2, 'CoverLetters', 'Marketing Cover Letter', 10.00, './assets/products/item2.png', '2020-03-28 11:08:57'),
 (3, 'Bundles', 'Marketing Resume & Cover Letter', 15.00, './assets/products/item3.png', '2020-03-28 11:08:57'),
+(4, 'Resumes', 'Personal Resume', 20.00, './assets/products/item4.jpg', '2021-05-12 21:06:49'),
+('5', 'Resumes', 'Teacher Resume', 20.00, './assets/products/item5.jpg', '2021-05-12 21:14:17.000000'),
+('6', 'Resumes', 'Electrician Resume', 20.00, './assets/products/item6.jpg', '2021-05-12 21:14:17.000000');
 
 -- --------------------------------------------------------
 

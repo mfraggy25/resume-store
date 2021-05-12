@@ -15,7 +15,7 @@ include('Template/_top-sale.php');
 /*  include top sale section */
 
 /*  include special price section  */
-include('Template/_special-price.php');
+// include('Template/_special-price.php');
 /*  include special price section  */
 
 /*  include banner ads  */
